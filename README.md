@@ -1,4 +1,4 @@
-#remote-job-seeker
+# remote-job-seeker
 
 I wrote this for my friend [@jmfulgham](https://github.com/jmfulgham).
 
