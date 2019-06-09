@@ -87,6 +87,7 @@ func main() {
 	wg.Wait()
 
 	writeJson(fileData)
+	fmt.Println(fmt.Sprintf("Captured %d records", len(fileData)))
 	fmt.Println(fmt.Sprintf("Ran in: %s", time.Since(start)))
 }
 
